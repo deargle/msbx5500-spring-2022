@@ -1,0 +1,12 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+# theme: theme-2022
+remote_theme: deargle-classes/theme-2022
+
+title: MSBX5500 Spring 2022
+description: Content for CU Boulder class MSBX5500 Spring 2022
