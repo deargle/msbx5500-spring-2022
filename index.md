@@ -6,4 +6,4 @@ Content for the course.
 
 # Links
 
-[Syllabus]({% link syllabus.md %})
+[Syllabus]({{ site.baseurl }}{% link syllabus.md %})
