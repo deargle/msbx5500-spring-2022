@@ -19,7 +19,7 @@ Instructor
 : Dave Eargle  ([contact](<mailto:David.Eargle@colorado.edu>))
 
 Class
-: See [my.cu.edu](https://buffportal.colorado.edu/) for schedule
+: Fridays, 9:30am - 12:00am
 
 Office Hours
 : See canvas
